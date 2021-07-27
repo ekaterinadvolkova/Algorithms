@@ -1,7 +1,8 @@
-# Algorithms
-This repository contains exercises to practice algorithms solving from [HackerRank](https://www.hackerrank.com/dashboard)
+<h1> Algorithms</h1>
 
-<h3> Solved cases: </h3>
-* Solve Me First
-* 
+ This repository contains the solutions for the algorithms from [Hacker Rank](https://www.hackerrank.com/dashboard)
+ 
+ <h3> Problem-Solving Cases </h3>
+
+:white_check_mark: [Solve Me First](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Solve_me_first)
 
