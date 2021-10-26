@@ -2,7 +2,7 @@
 
  This repository contains the solutions for the algorithms from [Hacker Rank](https://www.hackerrank.com/dashboard)
  
- <h3> Problem Level: Easy </h3>
+ <h3> Solved Cases </h3>
 
 
 :white_check_mark: [Solve Me First](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Solve%20Me%20First) <br>
@@ -12,11 +12,3 @@
 :white_check_mark: [ Diagonal Difference](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Diagonal%20Difference)<br>
 :white_check_mark: [ Plus Minus](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Plus%20Minus)<br>
 :white_check_mark: [ Staircase](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Staircase)<br>
-
- <h3> Problem Level: Medium </h3>
- :hourglass_flowing_sand:
- 
- <h3> Problem Level: Hard</h3>
- :hourglass_flowing_sand:
- 
-
