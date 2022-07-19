@@ -1,6 +1,6 @@
 <h1> Algorithms</h1>
 
- This repository contains the solutions for the algorithms from [Hacker Rank](https://www.hackerrank.com/dashboard)
+ This repository contains the solutions for the algorithms from [Hacker Rank](https://www.hackerrank.com/dashboard) and [LeetCode](https://leetcode.com/problemset/all/)
  
  <h3> Solved Cases </h3>
 
