@@ -12,4 +12,4 @@
 - [X] [ Diagonal Difference](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Diagonal%20Difference)<br>
 - [X] [ Plus Minus](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Plus%20Minus)<br>
 - [X] [ Staircase](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Staircase)<br>
-- [X] [ Staircase](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Roman%20to%20Integer)<br>
+- [X] [ Roman to Integer](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Roman%20to%20Integer)<br>
