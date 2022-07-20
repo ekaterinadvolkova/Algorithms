@@ -13,3 +13,4 @@
 - [X] [ Plus Minus](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Plus%20Minus)<br>
 - [X] [ Staircase](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Staircase)<br>
 - [X] [ Roman to Integer](https://github.com/ekaterinadvolkova/Algorithms/tree/main/Easy/Roman%20to%20Integer)<br>
+- [X] [ Palindrome](https://github.com/ekaterinadvolkova/Algorithms/blob/main/Easy/Palindrome/Solution%201.swift)<br>
